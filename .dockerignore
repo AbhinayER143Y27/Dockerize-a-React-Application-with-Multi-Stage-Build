@@ -1,0 +1,12 @@
+# Don't copy local dependencies
+node_modules
+
+# Don't copy the local build output
+build
+
+# Don't copy Git history
+.git
+.gitignore
+
+# Don't copy environment files
+.env
